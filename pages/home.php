@@ -10,11 +10,7 @@
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
             </svg>
         </div>
-        <h3 class="text-xl font-semibold mb-2">User Registration</h3>
-        <p class="text-gray-600">Register to access resource booking and management features. Verified residents can make reservations and track their requests.</p>
-        <div class="mt-4">
-            <a href="index.php?page=register" class="text-blue-600 hover:underline">Register Now →</a>
-        </div>
+       
     </div>
     
     <div class="bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition duration-300">
